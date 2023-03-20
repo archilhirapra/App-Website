@@ -1,6 +1,5 @@
 import {Row, Col} from 'react-bootstrap';
 import Xender from './apkList/Xender.apk';
-import demo from './apkList/demo.apk';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import {useEffect, useState} from "react";
