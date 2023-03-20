@@ -36,7 +36,7 @@ function App() {
                 handleInstall();
             }
         });
-    }, []);
+    },);
 
     const handleInstall = () => {
         // Trigger the install prompt
